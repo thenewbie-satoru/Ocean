@@ -40,4 +40,4 @@ It gives red teamers and cybersecurity learners deep insight into:
 ### 🌐 Server (C2)
 Run the server to listen for incoming clients and manage live sessions:
 ```bash
-python server.py
+python listener.py
