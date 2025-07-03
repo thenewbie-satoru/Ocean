@@ -1,5 +1,4 @@
-# 🌊 Ocean — Python Command & Control Framework (Reverse Shell + Live Streaming)
-
+# 🌊 Ocean — Python Command & Control Framework (Reverse Shell)
 > ⚠️ **For Educational & Ethical Use Only**  
 > Ocean is a red-team-focused tool for studying C2 infrastructure, RAT behavior, and real-time data streams — to be used only in lab environments or with explicit written permission.
 
