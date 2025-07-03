@@ -39,7 +39,7 @@ if readline:
 
 BANNER = r"""
 ╔════════════════════════════════════════════╗
-║      ☣ Enhanced Reverse Shell Server ☣     ║
+║      ☣ reverse shell C-2 server ☣     ║
 ║             Made in Indian Ocean     ║
 ╚════════════════════════════════════════════╝
 """
